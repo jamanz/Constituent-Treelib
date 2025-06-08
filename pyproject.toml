@@ -24,7 +24,7 @@ classifiers = [
 ]
 
 dependencies = [
-    "benepar",
+    "benepar @ git+https://github.com/jamanz/self-attentive-parser.git@master",
 	"contractions",
 	"langid",
 	"nltk",
