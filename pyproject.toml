@@ -56,3 +56,6 @@ keywords = [
 [project.urls]
 "Homepage" = "https://github.com/Halvani/constituent-treelib"
 "Bug Tracker" = "https://github.com/Halvani/constituent-treelib/issues"
+
+[tool.hatch.metadata]
+allow-direct-references = true
